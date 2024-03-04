@@ -8,7 +8,7 @@
 
 # Basic Site Settings
 locale                   : "ch-CHA"
-title                    : "Yu Yinglong's Site Title"
+title                    : "Yu Yinglong/Personal Homepage"
 title_separator          : "-"
 name                     : &name "Yu Yinglonge"
 description              : &description "personal description"
@@ -28,7 +28,7 @@ author:
   location         : "China Beijing"
   employer         : 
   uri              : # URL
-  email            : 
+  email            : "Yuyingling@cuc.edu.cn"
 
   # Academic websites
   arxiv            : # URL - Update with the correct link to your profile
